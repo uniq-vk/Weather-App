@@ -1,0 +1,4 @@
+.env
+.env.token
+.env.apiKey
+.env.mongodb_uri
